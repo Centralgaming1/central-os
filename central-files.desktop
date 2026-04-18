@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Central Files
+Comment=Central OS File Manager
+Exec=python3 /usr/local/bin/central-files
+Icon=system-file-manager
+Terminal=false
+Type=Application
+Categories=System;FileManager;
+MimeType=inode/directory;
+StartupNotify=true
